@@ -1,0 +1,4 @@
+hello normal line
+api_key = "ABC4567890"
+my fav coin is BTC 
+password = "notreal"
